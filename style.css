@@ -1,0 +1,26 @@
+.imgcaroseul {
+
+    height: 70% !important;
+    width: 70% !important;
+    margin-left: 50%;
+}
+.carousel {
+
+    margin-right: 20%;
+}
+.d-block {
+    margin: 10%;
+    height: 65% !important;
+    width: 70% !important;
+}
+.nav-link {
+
+    background-color: darksalmon;
+
+
+}
+.img-fluid {
+    height: 30%;
+    width: 100%;;
+
+}
